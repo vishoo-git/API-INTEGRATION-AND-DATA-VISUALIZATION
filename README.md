@@ -41,3 +41,5 @@ The project is simple to use: the user needs to specify a city, and the program 
 The visual output is a bar chart that clearly differentiates between the three weather metrics.
 
 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/266b8bfe-306b-421c-852d-e34725326f6b)
